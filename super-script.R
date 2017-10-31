@@ -1,3 +1,3 @@
 
-plot(1, main= "Graphique de points")
+plot(1, main= "Graphique de point")
 
